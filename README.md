@@ -1,1 +1,1 @@
-# Machine-Algorithm-with-python-packages
+# Machine-Algorithms-with-python-packages
